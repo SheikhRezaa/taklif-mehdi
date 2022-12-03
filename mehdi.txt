@@ -1,0 +1,51 @@
+﻿<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>tags</title>
+    </head>
+
+    <body dir="rtl">
+        <div>
+            <header>
+                <p>خوش آمدید</p>
+                <nav>
+                <a href="https://www.yasdl.com/">yasdl</a><br>
+                <a href="https://www.topLearn.com/">topLearn</a>
+                </nav>
+            </header>
+        </div>
+        <hr>
+        <p>سلام به همگی اسم من <span>مهدی</span> است .(نمونه span)</p>
+
+        <article>
+            <h1>تگ های نوشتاری</h1>
+        </article>
+                
+        <div>
+            <section>
+                <h3>تگ=P</h3>
+                <p>تگ p که از کلمه Paragraph ، که با استفاده از آن میتوان در یک صفحه وب یک یا چندین پاراگراف را ایجاد کرد.</p>
+            </section>
+            <section>
+                <h3>تگ های = B , I , U</h3>
+                <B>مثال تگ B</B><br>
+                <I>مثال تگ I</I><br>
+                <U>مثال تگ U</U>
+            </section>
+        </div>
+        <hr>
+
+        <aside>
+            <h3>استفاده تگ های Html</h3>
+            <p>تگ های = b,i,u,section,div,nav,aside,article,h1...h6,p,header,footer,span</p>
+        </aside>
+        <hr>
+        <div>
+            <footer >
+                <h2>پایان</h2>
+            </footer>
+        </div>
+    </body>
+
+</html>
